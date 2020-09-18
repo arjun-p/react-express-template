@@ -9,7 +9,7 @@
     "dev-bundle": "webpack -w -d"
   },
   "keywords": [],
-  "author": "",
+  "author": "A starter template for react express projects",
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1"
